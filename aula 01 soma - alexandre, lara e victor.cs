@@ -18,7 +18,7 @@ namespace aula_01_soma
             Console.WriteLine("Insira o segundo numero");
             numero02 = Convert.ToInt32(Console.ReadLine());
 
-            resultado = numero01 / numero02;
+            resultado = numero01 + numero02;
 
             Console.WriteLine(resultado);
 
